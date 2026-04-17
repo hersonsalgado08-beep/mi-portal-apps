@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <div style={{ 
+    <main style={{ 
       backgroundColor: 'black', 
       color: 'white', 
       height: '100vh', 
@@ -8,11 +8,10 @@ export default function Page() {
       flexDirection: 'column',
       alignItems: 'center', 
       justifyContent: 'center',
-      fontFamily: 'sans-serif',
-      margin: 0
+      fontFamily: 'sans-serif'
     }}>
-      <h1 style={{ fontSize: '2.5rem' }}>🚀 Portal de Herson</h1>
-      <p style={{ color: '#00ff88' }}>● Sistema Activo y en Línea</p>
-    </div>
+      <h1 style={{ fontSize: '2.5rem' }}>🚀 Portal de Herson Activo</h1>
+      <p style={{ color: '#00ff88' }}>El sistema está funcionando correctamente.</p>
+    </main>
   );
 }
