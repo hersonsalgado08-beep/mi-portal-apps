@@ -10,7 +10,7 @@ export default function Page() {
       justifyContent: 'center',
       fontFamily: 'sans-serif'
     }}>
-      <h1 style={{ fontSize: '2.5rem' }}>🚀 Portal de Herson Activo</h1>
+      <h1>🚀 Portal de Herson Activo</h1>
       <p style={{ color: '#00ff88' }}>El sistema está funcionando correctamente.</p>
     </main>
   );
