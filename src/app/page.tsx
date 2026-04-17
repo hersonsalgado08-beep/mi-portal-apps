@@ -8,7 +8,7 @@ export default function Page() {
       alignItems: 'center', 
       justifyContent: 'center' 
     }}>
-      <h1>🚀 Portal de Herson Activo</h1>
+      <h1>Portal de Herson Activo</h1>
     </div>
-  );
+  )
 }
